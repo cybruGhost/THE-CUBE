@@ -1,4 +1,4 @@
-# THECUBE
+# THECUBE -main description and guide
 # OUR DOMAINS
 https://thecub4.vercel.app 
 # and
