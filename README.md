@@ -1,8 +1,8 @@
 # THECUBE
 # OUR DOMAINS
-thecub4.vercel.app 
+https://thecub4.vercel.app 
 # and
-thecub4.netlify.app
+https://thecub4.netlify.app
 # what we do
 we just offer a place to stream ur best shows. 
 we do not do anything illegal. 
