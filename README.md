@@ -1,46 +1,91 @@
-# THECUBE -main description and guide
-# OUR DOMAINS
-https://thecub4.vercel.app 
-# and
-https://thecub4.netlify.app
-# what we do
-we just offer a place to stream ur best shows. 
-we do not do anything illegal. 
-TheCube is a movie streaming app that offers users a simple, engaging, and user-friendly experience. Users can browse movies, select their preferred API, and enjoy content directly within the app. It's designed to provide high-quality entertainment in an intuitive, minimalistic interface.
-# Hosting
-we do not host any content
-# login
-we do logins to regulate our site.No personal data is collected.
-we only get analytics e.g,how many pple used our site
-# account creation
-a password like 20202020 can be used.. dont use ur real email pass when registering
-# future
-we are now focusing to remove account creations.and offer free watching, but a user must be registered to download our app
-# legal
-https://thecub4.netlify.app/legal
+# 🎬 THECUBE — Stream Smart. Stay Addicted.
 
-Legal Notice
+Welcome to **THECUBE**, a movie streaming experience built for thrill-seekers, binge-watchers, and late-night explorers.  
+Minimal design, powerful interface, blazing fast playback.  
+> _"Addicted to Schedule 1"_ – We don’t just stream. We commit.
 
-Important information about our service and content accessibility.
-Service Information
+---
 
-The Cube operates as a search engine and content aggregator, similar to Google or Bing. Our service indexes publicly available content from across the internet.
-Technical Implementation
+## 🌐 Our Domains
 
-We use standard HTML iframes and embedding techniques. We do not host, store, or distribute any media content on our servers. No content is stored on or transmitted through our servers
-Data Privacy & Analytics
+- **React Movie Site**: [thecub4.vercel.app](https://thecub4.vercel.app)  
+- **Main Platform**: [thecub4.netlify.app](https://thecub4.netlify.app)
 
-We prioritize user privacy and maintain a minimal data collection policy. The only user data collected is through Google Analytics, which helps us understand general usage patterns and improve our service. We do not store any personal user information, watch history, or preferences on our servers.
-No personal data or user content is stored on our servers
-Analytics data is processed by Google Analytics in accordance with their privacy policy
+---
 
-Content Access
+## 📲 Download Our Apps
 
-All content accessible through our service is hosted by third-party websites. Users access content through these external platforms, which are solely responsible for the content they host.
+From the navigation bar on [thecub4.netlify.app](https://thecub4.netlify.app), you can access:
 
-Legal Disclaimer
+- **TheCube APK** – Android movie experience  
+- **Cubic Music APK** – Lightweight music player  
+- **Jennie AI** – Your personal AI assistant  
+- **YTB Premium Clone** – Enhanced YouTube client  
+- **Snake Game** – [vsnakegame.vercel.app](https://vsnakegame.vercel.app)  
+- **Cubic Ripper**, **TMDB Trailer Viewer**, **KeAttractions**, and **Custom Chat WebApp** also included
 
-The Cube is a content discovery platform that helps users locate publicly available content. We do not host, upload, or distribute any content. All content remains on third-party servers and websites that are not under our control.
-Content responsibility lies with the respective hosting services
+All packaged, polished, and ready to deploy.
 
-"Authorities, don't come get me ass plsss 🙏"
+---
+
+## 🎥 What We Do
+
+We **do not host** content.  
+We **do not store** personal data.  
+We **do not** break rules.
+
+> We’re a **gateway**, not the destination.
+
+At TheCube, users choose their own APIs, browse curated shows, and stream instantly — all inside a sleek, intuitive UI inspired by platforms you already love.
+
+---
+
+## 🔐 Account Creation & Security
+
+- No real passwords or emails needed  
+- Use simple credentials like `user@email.com / 20202020`  
+- We only track basic metrics (traffic, views) via Google Analytics
+
+> No watch history. No personal logs. Just pure streaming.
+
+---
+
+## 🔮 What’s Next?
+
+We’re evolving into a **zero-signup** platform for viewing —  
+**Only download access will require registration.**
+
+The future?  
+AI personalization. Offline access. Easier downloads. And smoother streams.
+
+---
+
+## ⚖️ Legal Notice
+
+View full legal page → [thecub4.netlify.app/legal](https://thecub4.netlify.app/legal)
+
+- We index public content like any search engine
+- We embed media using standard iframe techniques
+- We host **nothing** — and store **nothing**
+
+All content resides with **third-party servers**.  
+We are simply your **map**, not the treasure.
+
+> _“Authorities, don’t come get me ass plsss 🙏”_
+
+---
+
+## 🟩 Contributions Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cybruGhost&theme=react-dark" alt="Contribution activity heatmap">
+</p>
+
+<p align="center"><i>Every green square = time invested, a bug squashed, or a solution born.</i></p>
+
+---
+
+<p align="center">
+  <b>stream . explore . repeat</b><br/>
+  <i>crafted with code | powered by the people</i>
+</p>
