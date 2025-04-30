@@ -13,7 +13,7 @@ Minimal design, powerful interface, blazing fast playback.
 
 ---
 
-## 📲 Download Our Apps
+## 📲 Download Our Apps no ads and free
 our apps are add free. and dont require registration
 
 From the navigation bar on [thecub4.netlify.app](https://thecub4.netlify.app), you can access:
