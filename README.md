@@ -43,11 +43,12 @@ At TheCube, users choose their own APIs, browse curated shows, and stream instan
 
 ## 🔐 Account Creation & Security
 
-- No real passwords or emails needed  
-- Use simple credentials like `user@email.com / 20202020`  
+- No real passwords needed
+- 
+- Use simple credentials like `20202020`  
 - We only track basic metrics (traffic, views) via Google Analytics
 
-> No watch history. No personal logs. Just pure streaming.
+ there is watch history. No personal logs. Just pure streaming.
 
 ---
 
