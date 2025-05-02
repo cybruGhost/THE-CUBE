@@ -31,8 +31,8 @@ All packaged, polished, and ready to deploy.
 
 ## 🎥 What We Do
 All content accessible through our service is hosted by third-party websites. Users access content through these external platforms, which are solely responsible for the content they host.
-We **do not host** content.  
-We **do not store** personal data.  
+We **do not host** content AT all.  
+We **do not store** personal data and we dont share 
 We **do not** break rules.
 
 > We’re a **gateway**, not the destination.
