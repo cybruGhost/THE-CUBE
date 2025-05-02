@@ -2,7 +2,7 @@
 
 Welcome to **THECUBE**, a movie streaming experience built for thrill-seekers, binge-watchers, and late-night explorers.  
 Minimal design, powerful interface, blazing fast playback.  
-> _"Addicted to Schedule 1"_ – We don’t just stream. We commit.
+> _"Addicted to Schedule 1"_ – We don’t just stream. We commit fully
 
 ---
 
