@@ -72,7 +72,7 @@ View full legal page → [thecub4.netlify.app/legal](https://thecub4.netlify.app
 - We host **nothing** — and store **nothing**
 
 All content resides with **third-party servers**.  
-We are simply your **map**, not the treasure.
+with percious love
 
 > _“Authorities, don’t come get me ass plsss 🙏”_
 
