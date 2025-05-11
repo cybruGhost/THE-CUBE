@@ -89,5 +89,4 @@ with percious love
 
 <p align="center">
   <b>stream . explore . repeat</b><br/>
-  <i>crafted with code | powered by the people</i>
-</p>
+
