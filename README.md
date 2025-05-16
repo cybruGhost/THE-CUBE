@@ -47,7 +47,7 @@ At TheCube, users choose their own APIs, browse curated shows, and stream instan
 ---
 
 ## 🔐 Account Creation & Security
-
+NOTE THECUB4.VERCEL.APP DOESNT NEED ACCOUNT
 - No real passwords needed
 - 
 - Use simple credentials like `20202020`  
