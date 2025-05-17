@@ -12,9 +12,7 @@ Minimal design, powerful interface, blazing fast playback.
 
 ## 🌐 Our Domains
 
-- **React Movie Site**: [thecub4.vercel.app](https://thecub4.vercel.app)  use this
 - **Main Platform**: [thecub3.netlify.app](https://thecub3.netlify.app)
-- - **other domainbackup **backuphtml**: [thecub4.netlify.app](https://thecub4.netlify.app)
 
 ---
 
