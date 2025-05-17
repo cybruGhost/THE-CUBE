@@ -25,10 +25,7 @@ our apps are add free. and dont require registration to work
 
 - **TheCube APK** – Android movie experience  
 - **Cubic Music APK** – Lightweight music player  
-- **Jennie AI** – Your personal AI assistant  
-- **YTB Premium Clone** – Enhanced YouTube client comin soon 
-- **Snake Game** – [vsnakegame.vercel.app](https://vsnakegame.vercel.app)  
-- **Cubic Ripper**, **TMDB Trailer Viewer**, **KeAttractions**, and **Custom Chat WebApp** also included
+
 
 All packaged, polished, and ready to deploy.
 
@@ -46,12 +43,8 @@ At TheCube, users choose their own APIs, browse curated shows, and stream instan
 
 ---
 
-## 🔐 Account Creation & Security
+## 🔐  Security
 NOTE THECUB4.VERCEL.APP DOESNT NEED ACCOUNT
-- No real passwords needed
-- 
-- Use simple credentials like `20202020`  
-- We only track basic metrics (traffic, views) via Google Analytics
 
  there is watch history. No personal logs. Just pure streaming.
 
