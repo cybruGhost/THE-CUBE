@@ -69,7 +69,6 @@ AI personalization. Offline access. Easier downloads. And smoother streams.
 
 ## ⚖️ Legal Notice
 
-View full legal page → [thecub4.netlify.app/legal](https://thecub4.netlify.app/legal)
 
 - We index public content like any search engine
 - We embed media using standard iframe techniques
