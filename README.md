@@ -29,7 +29,7 @@ All packaged, polished, and ready to deploy.
 ---
 
 ## 🎥 NEW💯❣️❣️
- ADDED A NEW EPISODE 
+ ADDED A NEW EPISODE BADGE
 
 ## 🎥 What We Do
 All content accessible through our service is hosted by third-party websites. Users access content through these external platforms, which are solely responsible for the content they host.
