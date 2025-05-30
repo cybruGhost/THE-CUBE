@@ -68,7 +68,7 @@ AI personalization. Offline access. Easier downloads. And smoother streams.
 - We host **nothing** — and store **nothing**
 
 All content resides with **third-party servers**.  
-with percious love
+
 
 > _“Authorities, don’t come get me ass plsss 🙏”_
 
