@@ -15,7 +15,7 @@ our apps are add free. and dont require registration to work
 - **PC EXE** – for windows,mac,kali and ubuntu. 
 
 
-All packaged, polished, and ready to deploy.
+All packaged, polished, and ready to use.
 
 ---
 # SCREENSHOTS
