@@ -18,7 +18,7 @@ Minimal design, powerful interface, blazing fast playback.
 
 ## 📲 Download Our Apps no ads and free
 our apps are add free. and dont require registration to work
-
+ [thecub.netlify.app](https://thecub.netlify.app)
 
 - **TheCube APK** – Android movie experience  
 - **TheCubeTv** – Tv version apk. 
