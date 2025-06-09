@@ -5,17 +5,6 @@ Minimal design, powerful interface, blazing fast playback.
 > _"Addicted to Schedule 1"_ – We don’t just stream. We commit fully
 
 ---
-# SCREENSHOTS
-
-![Screenshot 2025-05-16 at 13-24-41 The Cube Ad-Free Movies   Netflix Series Streaming](https://github.com/user-attachments/assets/bb5fb98d-f62a-4efa-9056-efe60f6c3b7f)
-![Screenshot 2025-05-16 at 13-27-56 The Cube Ad-Free Movies   Netflix Series Streaming](https://github.com/user-attachments/assets/0dbee822-7fec-46a3-b3f3-f21b3109d8b7)
-
-## 🌐 Our Domains
-
-- **Main Platform**: [thecub3.netlify.app](https://thecub3.netlify.app)
-
----
-
 ## 📲 Download Our Apps no ads and free
 our apps are add free. and dont require registration to work
  [thecub.netlify.app](https://thecub.netlify.app)
@@ -29,7 +18,16 @@ our apps are add free. and dont require registration to work
 All packaged, polished, and ready to deploy.
 
 ---
+# SCREENSHOTS
 
+![Screenshot 2025-05-16 at 13-24-41 The Cube Ad-Free Movies   Netflix Series Streaming](https://github.com/user-attachments/assets/bb5fb98d-f62a-4efa-9056-efe60f6c3b7f)
+![Screenshot 2025-05-16 at 13-27-56 The Cube Ad-Free Movies   Netflix Series Streaming](https://github.com/user-attachments/assets/0dbee822-7fec-46a3-b3f3-f21b3109d8b7)
+
+## 🌐 Our Domains
+
+- **Main Platform**: [thecub3.netlify.app](https://thecub3.netlify.app)
+
+---
 ## 🎥 NEW💯❣️❣️
  ADDED A NEW EPISODE BADGE
 ## 🔮 Jennie ai Soon. for recomending movies?
