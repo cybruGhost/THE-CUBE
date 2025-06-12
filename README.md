@@ -31,6 +31,7 @@ All packaged, polished, and ready to use.
 ## 🎥 NEW💯❣️❣️
  ADDED A NEW EPISODE BADGE
 ## 🔮 Jennie ai Soon. for recomending movies?
+## sports and some cool wbsotes
 
 ## 🎥 What We Do
 All content accessible through our service is hosted by third-party websites. Users access content through these external platforms, which are solely responsible for the content they host.
