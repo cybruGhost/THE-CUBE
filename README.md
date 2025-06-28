@@ -86,5 +86,5 @@ All content resides with **third-party servers**.
 ---
 
 <p align="center">
-  <b>stream . explore . repeat</b><br/>
+  <b>stream .Watch . repeat</b><br/>
 
