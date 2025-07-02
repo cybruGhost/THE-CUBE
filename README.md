@@ -10,7 +10,8 @@ our apps are add free. and dont require registration to work
  [thecub.netlify.app](https://thecub.netlify.app)
 
 - **TheCube APK** – Android movie experience  
-- **TheCubeTv** – Tv version apk. 
+- **TheCubeTv** – Tv version apk.
+- cubicstream -web musicsite
 - **Cubic Music APK** – Lightweight music player
 - **PC EXE** – for windows,kali and ubuntu. 
 
