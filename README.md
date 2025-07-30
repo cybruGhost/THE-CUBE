@@ -1,4 +1,4 @@
-# 🎬 THE CUBE — Stream Smart. Stay Addicted. No ads. follow instructions
+# 🎬 THE CUBE — Stream Smart. Stay Addicted. No ads. no lag
 
 **THE CUBE**, is a movie streaming experience built for thrill-seekers, binge-watchers, and late-night explorers.  
 Minimal design, powerful interface, blazing fast playback.  
