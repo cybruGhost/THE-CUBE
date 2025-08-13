@@ -50,7 +50,7 @@ At TheCube, users choose their own APIs, browse curated shows, and stream instan
 ---
 
 ## 🔐  Security
-NOTE THECUB4.VERCEL.APP DOESNT NEED ACCOUNT
+NOTE THECUB4.VERCEL.APP DOESNT NEED ACCOUNT . But you may signin if you want to sync your data
 
  there is watch history. No personal logs. Just pure streaming.
 
