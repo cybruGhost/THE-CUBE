@@ -34,7 +34,7 @@ All packaged, optmised, and ready to use.
 ## 🎥 NEW💯❣️❣️
 - ADDED A NEW EPISODE BADGE
 - DOWNLOADS FIXED
-## 🔮 Jennie ai Soon. for recomending movies?
+## 🔮 Jennie ai . for recomending movies
 ## sports and some cool websites
 
 ## 🎥 What We Do
