@@ -35,7 +35,7 @@ All packaged, optmised, and ready to use.
 - ADDED A NEW EPISODE BADGE
 - DOWNLOADS FIXED
 ## 🔮 Jennie ai Soon. for recomending movies?
-## sports and some cool wbsotes
+## sports and some cool websites
 
 ## 🎥 What We Do
 All content accessible through our service is hosted by third-party websites. Users access content through these external platforms, which are solely responsible for the content they host.
