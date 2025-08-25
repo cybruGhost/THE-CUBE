@@ -6,7 +6,7 @@ Minimal design, powerful interface, blazing fast playback.
 > _"Addicted to Schedule 1"_ – We don’t just stream. We commit fully
 
 ---
-## 📲 Download Our Apps, no ads and free
+## 📲 Download Our Apps, no ads
 our apps are add free. and dont require registration to work
  [thecub.netlify.app](https://thecub.netlify.app)
  
