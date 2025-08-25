@@ -57,7 +57,7 @@ NOTE THECUB4.VERCEL.APP DOESNT NEED ACCOUNT . But you may signin if you want to 
 We’re evolving into a **zero-signup** platform for viewing —  
 
 The future?  
-AI personalization. Offline access. Easier downloads. And smoother streams.
+AI personalization. Offline access. 
 
 ---
 
