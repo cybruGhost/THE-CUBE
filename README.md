@@ -31,6 +31,7 @@ All packaged, optmised, and ready to use.
 
 ---
 ## 🎥 NEW💯❣️❣️
+## Fixed servers
 - ADDED A NEW EPISODE BADGE
 ## 🔮 Jennie ai . for recomending movies
 ## sports and some cool websites
