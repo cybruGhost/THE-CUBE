@@ -14,7 +14,7 @@ our apps are add free. and dont require registration to work
 - **TheCube APK** – Android apk
 - **TheCubeTv** – Tv version apk.
 - **Cubic Music APK** – Lightweight music player android
-- **PC EXE** – for windows,kali and ubuntu. 
+- **PC EXE** – for windows,kali and ubuntu supports mac
 
 
 All packaged, optmised, and ready to use.
