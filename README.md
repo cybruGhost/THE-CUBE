@@ -1,5 +1,11 @@
 # 🎬 THE CUBE — Stream Smart. Stay Addicted. No ads. no lag
 
+
+## 🌐 Our Domains
+ - **Main link**: [thecub.netlify.app](https://thecub.netlify.app)
+
+- **Main Platform**: [thecub3.netlify.app](https://thecub3.netlify.app)
+
 **THE CUBE**, is a movie streaming experience built for thrill-seekers, binge-watchers, and late-night explorers.  
 Minimal design, powerful interface, blazing fast playback.  
 #thecube #thecub4 #the cube #cubemovies #cube movies
@@ -25,10 +31,6 @@ All packaged, optmised, and ready to use.
 ![Screenshot 2025-05-16 at 13-24-41 The Cube Ad-Free Movies   Netflix Series Streaming](https://github.com/user-attachments/assets/bb5fb98d-f62a-4efa-9056-efe60f6c3b7f)
 ![Screenshot 2025-05-16 at 13-27-56 The Cube Ad-Free Movies   Netflix Series Streaming](https://github.com/user-attachments/assets/0dbee822-7fec-46a3-b3f3-f21b3109d8b7)
 
-## 🌐 Our Domains
- - **Main link**: [thecub.netlify.app](https://thecub.netlify.app)
-
-- **Main Platform**: [thecub3.netlify.app](https://thecub3.netlify.app)
 
 ---
 ## 🎥 NEW💯❣️❣️
