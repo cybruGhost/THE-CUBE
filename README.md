@@ -1,4 +1,4 @@
-# 🎬 THE CUBE — Stream Smart. Stay Addicted. No ads. no lag
+# 🎬 THE CUBE — Stream series and movies . No ads. no lag
 
 
 ## 🌐 Our Domains
