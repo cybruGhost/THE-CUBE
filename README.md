@@ -13,7 +13,7 @@ Minimal design, powerful interface, blazing fast playback.
 
 ---
 ## 📲 Download Our Apps, no ads
-our apps are add free. and dont require registration to work
+our apps are add free. and dont require registration
  [thecub.netlify.app](https://thecub.netlify.app)
  
 
