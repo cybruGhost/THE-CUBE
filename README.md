@@ -20,7 +20,7 @@ Our apps are ad-free and don't require registration.
 - **Cubic Music APK** – Lightweight Music Player for Android
 - **PC EXE** – For Windows, Kali, and Ubuntu (Supports Mac)
 
-All packages are optimized and ready to use.
+All packages are optimized and ready to use..
 
 ---
 
