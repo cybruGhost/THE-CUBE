@@ -1,4 +1,4 @@
-# 🎬 THE CUBE — Stream Series & Movies | No Ads, No Lag
+# 🎬 THE CUBE — Stream Series & Movies | No Ads,
 
 ## 🌐 Our Domains
 - **Main Link**: [thecub.netlify.app](https://thecub.netlify.app)
