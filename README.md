@@ -45,7 +45,7 @@ All content accessible through our service is hosted by third-party websites. Us
 We **do not host** content at all.  
 We **do not store** personal data and we don't share it.
 
-At TheCube, users choose their own APIs, browse curated shows, and stream instantly — all inside a sleek, intuitive UI inspired by platforms you already love.
+At TheCube, users choose their, browse curated shows, and stream instantly — all inside a sleek, intuitive UI inspired by platforms you already love.
 
 ---
 
