@@ -2,7 +2,6 @@
 
 ## 🌐 Our Domains
 - **Main Link**: [thecub.netlify.app](https://thecub.netlify.app)
-- **Main Platform**: [thecub3.netlify.app](https://thecub3.netlify.app)
 
 **THE CUBE** is a movie streaming experience built for thrill-seekers, binge-watchers, and late-night explorers.  
 Minimal design, powerful interface, blazing fast playback.  
