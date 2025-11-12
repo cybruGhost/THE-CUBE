@@ -30,13 +30,13 @@ All packages are optimized and ready to use..
 
 ---
 
-## 🎥 What's New
+## 🎥 What's New sept
 - ✅ Fixed servers
 - ✅ Added a new episode badge
-- 🔮 Jennie AI for movie recommendations
-- 🎯 Sports and cool websites
 - 📥 Downloads
-
+- fixed streaming,
+- added api use 
+- 
 ---
 
 ## 🎥 What We Do
