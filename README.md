@@ -12,7 +12,7 @@ Minimal design, powerful interface, blazing fast playback.
 ---
 
 ## 📲 Download all Our Apps (No Ads, No Registration Required)
-Our apps are ad-free and don't require registration.
+Our apps are ad-free and don't require registration to work
 
 - **TheCube APK** – Android APK
 - **TheCubeTv** – TV Version APK
