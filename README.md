@@ -50,7 +50,7 @@ At TheCube, users choose their, browse curated shows, and stream instantly — a
 ---
 
 ## 🔐 Security
-**Note:** THECUB4.VERCEL.APP doesn't require an account. You may sign in if you want to sync your data.
+**Note:** THECUB4.VERCEL.APP doesn't require an account. You may sign in if you want to sync your data and backup it.
 
 We only store watch history if signed in so that we sync to ur other devices. but collect no personal logs. Just pure streaming. if not signed in ..all data is stored on your device localstorage
 
