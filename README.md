@@ -3,6 +3,8 @@
 ## 🌐 Our Domains
 - **Main Link**: [thecub.netlify.app](https://thecub.netlify.app)
 
+- **other domain**:[mywartabola.online](https://mywartabola.online/)
+
 **THE CUBE** is a movie streaming experience built for thrill-seekers, binge-watchers, and late-night explorers.  
 Minimal design, powerful interface, blazing fast playback.  
 #thecube #thecub4 #the cube #cubemovies #cube movies
