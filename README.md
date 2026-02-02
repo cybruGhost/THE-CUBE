@@ -1,4 +1,4 @@
-# 🎬 THE CUBE — Stream Series & Movies | No Interuptions
+# 🎬 THE CUBE — Stream Series & Movies | No Interuptions...
 ---
 
 ## ❤️ Support The Cube
