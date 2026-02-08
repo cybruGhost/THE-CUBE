@@ -1,7 +1,7 @@
 # 🎬 THE CUBE — Stream Series & Movies | No Interuptions...
 ---
 
-## ❤️ Support The Cube
+## ❤️ Support The Cube💓💓
 
 If you enjoy our work and want to support development, you can buy us a coffee ☕  
 
