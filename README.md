@@ -10,11 +10,13 @@ If you really enjoy our work and want to support development, you can buy us a c
 Every bit of support helps keep The Cube growing 🚀  
 
 ---
+# 🚀 Download Our EXE Now!
+Get the latest version of our app here: [Download EXE](https://thecub.netlify.app/osapp)
 
 ## 🌐 Our Domains
 - **Main Link**: [thecub.netlify.app](https://thecub.netlify.app)
+- **Other Domain**: [mywartabola.online](https://mywartabola.online/)
 
-- **other domain**:[mywartabola.online](https://mywartabola.online/)
 
 **THE CUBE** is a movie streaming experience built for thrill-seekers, binge-watchers, and late-night explorers.  
 Minimal design, powerful interface, blazing fast playback.  
