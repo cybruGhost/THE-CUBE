@@ -7,7 +7,7 @@ If you really enjoy our work and want to support development, you can buy us a c
 
 👉 **[ko-fi.com/anonghost40418](https://ko-fi.com/anonghost40418)**
 
-Every bit of support helps keep The Cube growing 🚀  
+Every bit of support helps keep The Cube growing 
 
 ---
 # 🚀 Download Our EXE Now!
