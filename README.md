@@ -3,7 +3,7 @@
 
 ## ❤️ Support The Cube💓✌️
 
-If you really enjoy our work and want to support development, you can buy us a coffee ☕  
+If you really really enjoy our work and want to support development, you can buy us a coffee ☕  
 
 👉 **[ko-fi.com/anonghost40418](https://ko-fi.com/anonghost40418)**
 
