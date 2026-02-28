@@ -1,4 +1,4 @@
-# 🎬 THE CUBE — Stream Series & Movies | No Interuptions...This is built with No AI at all
+# 🎬 THE CUBE — Stream Series & Movies | No Interuptions..
 ---
 
 ## ❤️ Support The Cube💓✌️
