@@ -28,7 +28,7 @@ Get the latest version of our app here: **[Download EXE](https://thecub.netlify.
 
 ---
 
-**THE CUBE** is a movie 🌹 streaming experience built for thrill-seekers, binge-watchers, and late-night explorers.  
+**THE CUBE** is a movie/serries streaming experience built for thrill-seekers, binge-watchers, and late-night explorers.  
 Minimal design, powerful interface, blazing fast playback.  
 
 > `#thecube #thecub4 #the cube #cubemovies #cube movies`
