@@ -1,4 +1,4 @@
-# 🎬 THE CUBE — Stream Series & Movies | No Interruptions
+# 🎬 THE CUBE — just a site
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/bb5fb98d-f62a-4efa-9056-efe60f6c3b7f" alt="The Cube Banner" width="800"/>
