@@ -24,7 +24,7 @@ Get the latest version of our app here: **[Download EXE](https://thecub.netlify.
 
 - **Main Link**: [thecub.netlify.app](https://thecub.netlify.app)
 - **Other Link**: [https://thecub4.vercel.app/](https://thecub4.vercel.app/)
-- **Other Domain**: [mywartabola.online](https://mywartabola.online/)
+
 
 ---
 
