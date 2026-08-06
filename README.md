@@ -54,6 +54,9 @@ All packages are optimized and ready to use.
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/bb5fb98d-f62a-4efa-9056-efe60f6c3b7f" alt="Screenshot 1" width="400"/>
+  <img width="656" height="299" alt="Screenshot 2026-08-06 172246" src="https://github.com/user-attachments/assets/be17e1f7-dcdb-4c09-b776-93ceb61cde46" />
+<img width="667" height="340" alt="Screenshot 2026-08-06 170940" src="https://github.com/user-attachments/assets/3f27a999-5339-47a0-acb3-bbc1591b11c3" />
+
   <img src="https://github.com/user-attachments/assets/0dbee822-7fec-46a3-b3f3-f21b3109d8b7" alt="Screenshot 2" width="400"/>
 </div>
 
