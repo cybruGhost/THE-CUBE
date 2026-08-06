@@ -2,6 +2,9 @@
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/bb5fb98d-f62a-4efa-9056-efe60f6c3b7f" alt="The Cube Banner" width="800"/>
+  <img width="656" height="299" alt="Screenshot 2026-08-06 172246" src="https://github.com/user-attachments/assets/e1f34e77-86ef-4f3a-8392-244b5b69bf0b" />
+<img width="667" height="340" alt="Screenshot 2026-08-06 170940" src="https://github.com/user-attachments/assets/1ccc22eb-2afb-49ab-b4c7-a19455ca1771" />
+
 </p>
 
 ---
