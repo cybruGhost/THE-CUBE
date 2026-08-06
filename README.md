@@ -14,7 +14,7 @@
 
 If you really really enjoy our work and want to support development, you can buy us a coffee ☕  
 
-👉 **[ko-fi.com/anonghost40418](https://ko-fi.com/anonghost40418)**
+link in site
 
 Every bit of support helps keep The Cube growing 
 
@@ -22,7 +22,7 @@ Every bit of support helps keep The Cube growing
 
 ## 🚀 Download Our EXE Now!
 
-Get the latest version of our app here: **[Download EXE](https://thecub.netlify.app/osapp)**
+Get the latest version of our app here: **[Download EXE](https://thecub.netlify.app/)**
 
 ## 🌐 Our Domains
 
